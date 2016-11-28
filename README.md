@@ -17,7 +17,7 @@ Learn everything you need to about the subject of this `Sololearn C++`  project.
 ```
 [x] Basic Concepts
 [x] Conditional and Loops
-[ ] Data Types, Arrays, Pointers
+[x] Data Types, Arrays, Pointers
 [ ] Functions
 [ ] Classes and Objects
 [ ] Challenges
