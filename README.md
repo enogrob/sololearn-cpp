@@ -18,9 +18,9 @@ Learn everything you need to about the subject of this `Sololearn C++`  project.
 [x] Basic Concepts
 [x] Conditional and Loops
 [x] Data Types, Arrays, Pointers
-[ ] Functions
-[ ] Classes and Objects
-[ ] Challenges
+[x] Functions
+[x] Classes and Objects
+[x] Challenges
 [ ] More On Classes
 [ ] Inheritance & Polymorphism
 [ ] Templates, Exceptions, and Files
