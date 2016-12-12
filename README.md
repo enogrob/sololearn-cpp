@@ -21,7 +21,7 @@ Learn everything you need to about the subject of this `Sololearn C++`  project.
 [x] Functions
 [x] Classes and Objects
 [x] Challenges
-[ ] More On Classes
+[x] More On Classes
 [ ] Inheritance & Polymorphism
 [ ] Templates, Exceptions, and Files
 [ ] Challenges
