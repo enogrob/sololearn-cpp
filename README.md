@@ -24,6 +24,6 @@ Learn everything you need to about the subject of this `Sololearn C++`  project.
 [x] More On Classes
 [x] Inheritance & Polymorphism
 [x] Templates, Exceptions, and Files
-[ ] Challenges
-[ ] Certificate
+[x] Challenges
+[x] Certificate
 ```
